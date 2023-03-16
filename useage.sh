@@ -1,0 +1,1 @@
+python3 classify.py --model mobilenet.tflite
